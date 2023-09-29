@@ -1,0 +1,27 @@
+/* Store.css */
+ol {
+  font-size: 30px;
+  color: orangered; /* Define a cor do texto do cabeçalho */
+  padding: 20px; /* Adiciona espaçamento interno */
+  text-align: center;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+#fundos {
+  background-color: black;
+  color: red; /* Define a cor do texto do cabeçalho */
+  padding: 20px; /* Adiciona espaçamento interno */
+  text-align: center;
+  border: 5px solid darkred;
+  border-radius: 25px;
+  padding: 10;
+}
+
+a {
+  text-decoration: none; /* Remove a decoração de texto (sublinhado) do link */
+  color: white; /* Define a cor do link */
+  font-weight: bold; /* Define o peso da fonte como negrito */
+}

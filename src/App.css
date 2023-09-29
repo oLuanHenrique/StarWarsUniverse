@@ -1,0 +1,10 @@
+/* Estilos para o cabeçalho da página */
+.header {
+  background-color: black; /* Define a cor de fundo do cabeçalho */
+  color: orange; /* Define a cor do texto do cabeçalho */
+  padding: 20px; /* Adiciona espaçamento interno */
+  text-align: center; /* Centraliza o texto no cabeçalho */
+  font-size: 50px;
+  border: 5px solid darkred;
+  border-radius: 25px;
+}
